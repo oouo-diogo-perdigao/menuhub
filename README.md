@@ -14,7 +14,7 @@ e o preço.
 
 A primeira tarefa, dos pares de programadores da startup, para a construção desse produto
 compreende a criação do repositório no GitHub e o arquivo README.md contendo os nomes dos
-programadores. Após isso, a equipe deverá criar uma tag denominada tarefa-6 e sincronizar
+programadores. Após isso, a equipe deverá criar uma tag denominada tarefa-7 e sincronizar
 tudo com o repositório remoto. Por último, a equipe deverá compartilhar o repositório
 com o colaborador Luiz Gomes (gomes.luiz@gmail.com) e enviar o link desse repositório
 via Canvas até a data da entrega.
