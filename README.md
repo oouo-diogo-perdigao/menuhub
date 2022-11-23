@@ -1,9 +1,10 @@
-# Exercicio 7
+# Projeto MenuHub
 * Startup Meu Menu Principal
-* Projeto MenuHub
 
-## Enunciado
+## Alunos
+* Diogo Passos Perdigão Britto
 
+## Enunciado Tarefa 7
 Olá Alunos,
 
 A startup (nome a gosto da equipe de alunos) está projetando um produto denominado MenuHub que
@@ -22,6 +23,3 @@ via Canvas até a data da entrega.
 Atte.,
 
 Luiz Gomes | Professor
-
-## Alunos
-* Diogo Passos Perdigão Britto
