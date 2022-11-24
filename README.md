@@ -4,12 +4,6 @@
 ## Alunos
 * Diogo Passos Perdigão Britto
 
-# Executando o Projeto
-* `pip install -r requirements.txt` para instalar as dependências.
-* `set FLASK_DEBUG=1` ativar modo debug
-* `$env:FLASK_DEBUG = 1` ativar modo debug no windows powershell7
-* `flask run` executar projeto
-
 ## Enunciado Tarefa 7
 Olá Alunos,
 
@@ -25,18 +19,6 @@ programadores. Após isso, a equipe deverá criar uma tag denominada tarefa-6 e 
 tudo com o repositório remoto. Por último, a equipe deverá compartilhar o repositório
 com o colaborador Luiz Gomes (gomes.luiz@gmail.com) e enviar o link desse repositório
 via Canvas até a data da entrega.
-
-Atte.,
-
-Luiz Gomes | Professor
-
-## Enunciado Tarefa 8
-Olá Alunos,
-
-A segunda tarefa do projeto MenuHub compreende a criação e a descrição da estrutura do projeto 
-arquivo README.md para suportar um projeto utilizando o framework Flask. Após isso, a equipe deverá
-criar uma tag denominada tarefa-8 e sincronizar tudo com o repositório remoto. Por último, enviar
-o link desse repositório via Canvas até a data da entrega.
 
 Atte.,
 
